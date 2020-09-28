@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano first.c
+    4  git clone https://github.com/RicardsRemess/RTR105
+    5  cp first.c RTR105
+    6  cd RTR105/
+    7  ls
+    8  man git
+    9  git -h
+   10  git --help
+   11  git commit 
+   12  git config --global user.name "Your Name"https://github.com/RicardsRemess/RTR105
+   13  git config --global user.name "RicardsRemess"
+   14  git commit 
+   15  git config --global user.name "RicardsRemess"
+   16  git commit 
+   17  nano hello.c\
+   18  nano hello.c
+   19  gcc hello.c
+   20  ls
+   21  nano a.out
+   22  ls -a
+   23  ls -l
+   24  a.out
+   25  ./a.out
+   26  ls
+   27  nano first.c 
+   28  nano hello.c 
+   29  gcc hello.c 
+   30  nano hello.c 
+   31  gcc hello.c 
+   32  ./a.out
+   33  ls
+   34  echo $?
+   35  history -> history.txt
+   36  history >> history.txt
